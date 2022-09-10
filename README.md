@@ -3,7 +3,8 @@
 
 ## Designs
 
-- [Earrings](Earrings/README.md)
+- [Barrel Earrings](Earrings/README.md)
+- [Pedestal Earrings](Earrings_2/README.md)
 
 ## License
 
