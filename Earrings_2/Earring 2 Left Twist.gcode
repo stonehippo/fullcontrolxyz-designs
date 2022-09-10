@@ -28,7 +28,7 @@ G90 ; absolute coordinates
 G21 ; set units to millimeters
 M83 ; relative extrusion
 M106 S255 ; set fan speed
-M220 S90 ; set speed factor override percentage
+M220 S80 ; set speed factor override percentage
 M221 S100 ; set extrude factor override percentage
 G0 F8000 X0.0 Y0.0 Z10.0
 G1 F250 E20.7876
